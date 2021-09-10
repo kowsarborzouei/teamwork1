@@ -1,0 +1,87 @@
+.background{
+    background-image: url("pic2.jpg");
+    width: 917px;
+    height: 614px;
+}
+button{
+    width: 239px;
+    height: 35px;
+    top: 0px;
+    border: 0px solid;
+    text-align: center;
+    color: white;
+}
+p{
+    font-family:  'Roboto', sans-serif;
+    color: gray;
+    line-height: 25px;
+}
+strong{
+    font-family:  'Roboto', sans-serif;
+    color: gray;
+}
+.text{
+    text-align: left;
+    width: 620px;
+    height: 35px;
+    background-color: white;
+    border: 1px solid cornflowerblue;
+    direction: ltr;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.setting-text{
+    position: absolute;
+    top: 8px;
+    left: 50px;
+    align-items: center;
+    cursor: default;
+    color: gray;
+
+}
+.div-text{
+    position: relative;
+}
+/*
+html[dir="ltr"].setting-text{
+
+}*/
+ion-icon{
+    color: #76ADB0;
+
+}
+.background-end{
+    background-image: url("pic1.jpg");
+    width: 917px;
+    height: 614px;
+}
+.input-name{
+    width: 200px;
+    height: 30px;
+    text-align: left;
+    direction: ltr;
+    background-color: white;
+    margin-top: 8px;
+}
+.span-name{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 5px;
+    color: gray;
+
+}
+.span-email{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 5px;
+    color: gray;
+
+}
+.span-website{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 5px;
+    color: gray;
+
+}
